@@ -1,0 +1,1 @@
+{"xAxis":{"type":"category","data":["Mon","Tue","Wed"]},"yAxis":{"type":"value"},"series":[{"data":[120,200,150],"type":"bar","center":["50%","55%"]}],"toolbox":{"show":true,"feature":{"dataZoom":{"yAxisIndex":"none"},"magicType":{"type":["line","bar"]},"restore":{}}},"title":{"top":"0%","left":"center"}}
